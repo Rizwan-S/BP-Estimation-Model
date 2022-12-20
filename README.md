@@ -1,2 +1,2 @@
-# BP-Estimation-Model-Source-Code
-Source code for novel bp estimation model
+# BP-Estimation-Model
+Source code for novel bp estimation model.
